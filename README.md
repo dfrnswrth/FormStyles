@@ -1,4 +1,6 @@
 FormStyles
 ==========
 
-jQuery radio / check replacement
+jQuery radio / check replacement.
+
+Documentation coming soon.
